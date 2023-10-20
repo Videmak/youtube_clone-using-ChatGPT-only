@@ -7,6 +7,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About the project.
+This is a project that cloned youtube's core function of video upload, thumbnail generation, and UI using only ChatGPT. No coding is required but just following what ChatGPT suggested.
+
+## All ChatGPT Prompt used.
+
+https://chat.openai.com/share/b8019cad-5154-4ae8-9fbf-b2f19f7e7108
+
+
+## Smaple Images
+
+                                    These are demo images of the final product
+
+![Youtube clone image 1](https://i.imgur.com/9KyRUxd.png)
+
+                                        Image 2
+
+
+![Youtube clone image 2](https://i.imgur.com/CTNu86y.png)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -64,3 +83,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
